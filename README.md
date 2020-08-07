@@ -22,7 +22,7 @@ the website is for a group in minecraft
 
 
 
-[website]: marvhus.github.io
+[website]: https://marvhus.github.io/
 [marvhus]: https://www.youtube.com/channel/UCrMzOvZWrtzjLQxfWt_EzXw
 [MartHus137]: https://www.youtube.com/channel/UC3GprUkYhIu5ZnU6ASLWoDg
 [twitch]: https://twitch.tv/MartHus137
