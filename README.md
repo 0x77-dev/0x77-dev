@@ -9,8 +9,7 @@ the website is for a group in minecraft
     - Learn HTML, CSS so i can use it to code and make it work
     - Learn JS so i can make Discord Bots 😂
 
-<br />
----
+<br>
 
 ### Connect with me
 [<img align="left" alt="marvhus | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][marvhus]
@@ -18,8 +17,7 @@ the website is for a group in minecraft
 [<img align="left" alt="MartHus137 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][MartHus137]
 [<img align="left" alt="marvhus.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-<br />
----
+<br>
 
 
 
