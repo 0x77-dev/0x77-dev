@@ -13,7 +13,7 @@ the website is for a group in minecraft
 - [marvhus YouTube Channel](https://www.youtube.com/channel/UCrMzOvZWrtzjLQxfWt_EzXw)
 - [MartHus137 Twitch](https://twitch.tv/MartHus137)
 - [MartHus137 YouTube Channel](https://www.youtube.com/channel/UC3GprUkYhIu5ZnU6ASLWoDg)
-- [website](https://marvhus.github.io)
+- [marvhus github website](https://marvhus.github.io)
 
 ---
 
