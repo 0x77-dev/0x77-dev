@@ -9,11 +9,19 @@ the website is for a group in minecraft
     - Learn HTML, CSS so i can use it to code and make it work
     - Learn JS so i can make Discord Bots 😂
 
+---
+
 ### Connect with me
-- [marvhus YouTube Channel](https://www.youtube.com/channel/UCrMzOvZWrtzjLQxfWt_EzXw)
-- [MartHus137 Twitch](https://twitch.tv/MartHus137)
-- [MartHus137 YouTube Channel](https://www.youtube.com/channel/UC3GprUkYhIu5ZnU6ASLWoDg)
-- [marvhus github website](https://marvhus.github.io)
+- [<img align="left" alt="marvhus | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][marvhus]
+- [<img align="left" alt="marvhus.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitch.svg" />][twitch]
+- [<img align="left" alt="MartHus137 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][MartHus137]
+- [<img align="left" alt="marvhus.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 ---
 
+
+
+
+[website]: marvhus.github.io
+[marvhus]: https://www.youtube.com/channel/UCrMzOvZWrtzjLQxfWt_EzXw
+[MartHus137]: https://www.youtube.com/channel/UC3GprUkYhIu5ZnU6ASLWoDg
