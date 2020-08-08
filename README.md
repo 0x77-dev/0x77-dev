@@ -2,13 +2,9 @@
 
 <br />
 
-#
-
 ## I`m a Developer, and a Gamer😂
 
 <br />
-
-#
 
 ### Connect with me
 [<img align="left" alt="0x77 | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitch.svg" />][twitch]
@@ -18,15 +14,11 @@
 
 <br />
 
-#
-
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
 <br />
-
-#
 
 [![0x77 github stats](https://github-readme-stats.vercel.app/api?username=0x77-dev&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
