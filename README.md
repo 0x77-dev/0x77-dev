@@ -2,9 +2,13 @@
 
 <br />
 
+#
+
 ## I`m a Developer, and a Gamer😂
 
 <br />
+
+#
 
 ### Connect with me
 [<img align="left" alt="0x77 | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitch.svg" />][twitch]
@@ -14,6 +18,8 @@
 
 <br />
 
+#
+
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [0x77](https://www.youtube.com/watch?v=GMjAndnralc)
@@ -21,7 +27,13 @@
 
 <br />
 
+#
+
 [![0x77 github stats](https://github-readme-stats.vercel.app/api?username=0x77-dev&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+#
 
 [website]: https://0x77-dev.github.io/
 [youtube]: https://www.youtube.com/channel/UCH5JE89kj2vxKPTkhHEVP8A
