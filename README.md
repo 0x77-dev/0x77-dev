@@ -24,14 +24,6 @@ the website is for a group in minecraft
 
 #
 
-### BLOG
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<br />
-
-#
-
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Me being bad at Crystal PVP](https://www.youtube.com/watch?v=LZgu2RGn1zM)
