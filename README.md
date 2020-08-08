@@ -40,7 +40,7 @@ the website is for a group in minecraft
 
 #
 
-<img align="left" alt="marvhus Github Stats" src="https://github-readme-stats.vercel.app/api?marvhus&show_icons=true&hide_border=true" />
+[![marvhus github stats](https://github-readme-stats.vercel.app/api?username=marvhus)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://marvhus.github.io/
 [marvhus]: https://www.youtube.com/channel/UCrMzOvZWrtzjLQxfWt_EzXw
