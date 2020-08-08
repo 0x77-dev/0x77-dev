@@ -16,6 +16,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [0x77](https://www.youtube.com/watch?v=GMjAndnralc)
 <!-- YOUTUBE:END -->
 
 <br />
